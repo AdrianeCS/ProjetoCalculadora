@@ -4,7 +4,7 @@ clique aqui para o dawlond do zip
 [Download]
 
 --------------------------------
-a calculadora oferece as 4 operações matematicas, exponiensização e radiação 
+a calculadora oferece as 4 operações matematicas, exponenciação e radiação 
 além de calcular os graus do seno cosseno e a tangente 
 
 -------------------------------
