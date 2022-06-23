@@ -12,7 +12,9 @@ Console.WriteLine("[*] Multiplicação");
 Console.WriteLine("[/] Divisão");
 Console.WriteLine("[^] Exponenciação");
 Console.WriteLine("[x] Radiciação");
-
+Console.WriteLine("[S] Seno");
+Console.WriteLine("[C] conseno");
+Console.WriteLine("[T] Tangente");
 Console.Write("\nSelecione a operação desejada: ");
 
 opcaoDesejada = Console.ReadLine()!;
@@ -37,6 +39,16 @@ switch (opcaoDesejada)
     case "x":
         AritmeticaVisuais.CalcularRadiciação();
         break;
+    case "S":
+        AritmeticaVisuais.CalcularSeno();
+        break;
+    case "C":
+        AritmeticaVisuais.CalcularConseno();
+        break;
+    case "T":
+        AritmeticaVisuais.Calculartangente();
+        break;
+
 
     default:
         Console.WriteLine("Opção inválida.");

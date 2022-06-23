@@ -50,4 +50,17 @@ public class Aritmetica
             return raiz;
         }
     }
+    public static double seno(double angulo)
+    {
+        return Math.Sin(angulo * (Math.PI / 180) );
+    }
+     public static double cosseno(double angulo)
+    {
+        return  Math.Cos(angulo * (Math.PI / 180) );
+    }
+     public static double tangente(double angulo)
+    {
+        return Math.Tan(angulo * (Math.PI / 180) );
+    }
+    
 }

@@ -137,8 +137,54 @@ public class AritmeticaVisuais
         Console.ReadKey();
 
         return;
+
+
+    }
+    public static void CalcularSeno()
+    {
+        double a, resultado;
+        Console.WriteLine("---Seno---\n");
+        Console.WriteLine("Informe qual o ângulo em graus.");
         
+        Console.Write("A = ");
+        a = Convert.ToDouble(Console.ReadLine());
+        resultado = Aritmetica.seno(a);
+        
+        Console.WriteLine($"O seno de {a} é {Math.Round(resultado, 3)}");
+        
+        return;
+
+
+    }
+    public static void CalcularConseno()
+    {
+        double a, resultado;
+        Console.WriteLine("---Cosseno---\n");
+        Console.WriteLine("Informe qual o ângulo em graus.");
+        
+        Console.Write("A = ");
+        a = Convert.ToDouble(Console.ReadLine());
+        resultado = Aritmetica.cosseno(a);
+        
+        Console.WriteLine($"O cosseno de {a} é {Math.Round(resultado, 3)}");
+        
+        return;
+
+    }
+
+    public static void Calculartangente()
+    {
+        double a, resultado;
+        Console.WriteLine("---Tangente---\n");
+        Console.WriteLine("Informe qual o ângulo em graus.");
+        
+        Console.Write("A = ");
+        a = Convert.ToDouble(Console.ReadLine());
+        resultado = Aritmetica.tangente(a);
+        
+        Console.WriteLine($"A tangente de {a} é {Math.Round(resultado, 3)}");
+        
+        return;
+        ;
     }
 }
-
-
