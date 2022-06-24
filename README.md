@@ -1,27 +1,32 @@
 # ProjetoCalculadora
 
-Clique aqui para o dawlond do zip
-[Download]
+# ProjetoCalculadora
+
+- **Download::coffee:**
+
+ [Clique aqui para o download do zip](dist/Calculadora.zip)
 
 --------------------------------
-A calculadora oferece as 4 operações matematicas, exponenciação e radiação 
+- **Sobre a Calculadora::coffee:**
+
+A calculadora oferece as 4 operações básicas, exponenciação e radiciação 
 além de calcular os graus do seno cosseno e a tangente 
 
 -------------------------------
-A gradeço aos professores Ermogenes Palacio e Diego Neri pelo excelente trabalho de me orientar e passar conhecimento
+- **Agradecimentos::coffee:**
+
+Agradeço comovida aos professores [Ermogenes Palacio](https://github.com/ermogenes)
+ e [Diego Neri](https://github.com/diegoneri) pelo excelente trabalho de me orientar e passar conhecimento.
+ E a escola Etec Adolpho Berezin por me porprocionar essa oportunidade.
 
 -------------------------------
-Créditos
-Dev:AdrianeCS
-[Template do programa] disponibilizado por Ermogenes Palacio
+- **Créditos::coffee:**
+
+Dev: Adriane C Santos
+
+[Template do programa](https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/projeto_2019_1.md) disponibilizado por [Ermogenes Palacio](https://github.com/ermogenes)
 
 -------------------------------
-A____A
-|・ㅅ・|
-|っ　ｃ|
-|　　　|
-|　　　|
-|　　　|
-|　　　|
-|　　　|
-U￣￣U
+"Seja Preguiçoso"
+
+Palacio, Ermogenes
